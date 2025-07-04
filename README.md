@@ -13,7 +13,4 @@ components used;
 The primary goal is to connect the NodeMcu to the mobile app 
 and calibrate the switch accordingly. 
 ------------------------------------------------------------
-
-
-   
-   
+ready to upgrade 
