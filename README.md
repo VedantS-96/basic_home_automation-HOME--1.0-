@@ -12,5 +12,11 @@ components used;
 
 The primary goal is to connect the NodeMcu to the mobile app 
 and calibrate the switch accordingly. 
+-----------------------------------------------------------
+⚙️ How It Works
+
+    1.NodeMCU connects to Wi-Fi and Blynk app.       
+    2.Relay is connected to NodeMCU and switches.       
+    3.User controls appliances (like light/fan) from Blynk app.    
 ------------------------------------------------------------
 ready to upgrade 
